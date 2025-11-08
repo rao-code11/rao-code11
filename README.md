@@ -4,8 +4,8 @@
   <img src="certificate/download1.png" width="33%">
   <img src="certificate/download2.png" width="33%">
   <img src="certificate/download3.png" width="33%"><br>
-  <!-- <img src="certificate/download4.png" width="33%">
-  <img src="certificate/download5.png" width="33%">
+  <img src="certificate/download4.png" width="33%">
+  <!-- <img src="certificate/download5.png" width="33%">
   <img src="certificate/download6.png" width="33%"> -->
 </p>
 
