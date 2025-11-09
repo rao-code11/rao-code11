@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rao-code</h1>
-
+<ul>
+    <summary><h2 style="display: inline-block" > <img align="center" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats</h2></summary>
+</ul>
 <p align="center" style="display:flex; gap: 10px;">
   <img src="certificate/download1.png" width="33%">
   <img src="certificate/download2.png" width="33%">
