@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rao-code</h1>
-<img src="https://i.makeagif.com/media/6-28-2016/f8YwH9.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 600px; height: 172px; margin: 5px 0px; width: 305px;" alt="Beautiful High Quality Sunset on Make a GIF" jsname="kn3ccd">
- 
+<img src="https://i.makeagif.com/media/6-28-2016/f8YwH9.gif"
 
 <ul>
     <summary><h2 style="display: inline-block" > <img align="center" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats</h2></summary>
