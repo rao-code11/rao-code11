@@ -7,7 +7,10 @@
   <img src="certificate/download3.png" width="33%"><br>
   <img src="certificate/download4.png" width="33%">
   <!-- <img src="certificate/download5.png" width="33%">
-  <img src="certificate/download6.png" width="33%"> -->
+  <img src="certificate/download6.png" width="33%">
+  https://www.figma.com/design/ZoOJzFVwC7NaLyIIRDIfYy/OnlyU?node-id=9-57&p=f&t=CBgTdLgPLyHsjJfx-0
+  https://myfans.jp/en
+  -->
 </p>
 
 
