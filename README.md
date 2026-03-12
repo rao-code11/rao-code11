@@ -7,7 +7,7 @@
   <img src="certificate/download3.png" width="33%"><br>
   <img src="certificate/download4.png" width="33%">
 </p>
-cc
+
 
 - 🎓 I am currently pursuing my **PhD in Artificial Intelligence**.
 - 🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
